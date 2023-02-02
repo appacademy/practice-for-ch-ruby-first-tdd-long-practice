@@ -124,7 +124,7 @@ don't bother checking `gets` or `puts`). Focus on:
 
 ## Resources
 
-* [Ruby Doc on Array](http://www.ruby-doc.org/core-2.1.2/Array.html)
+* [Ruby Doc on Array](http://www.ruby-doc.org/3.1.3/Array.html)
 * [Ruby Array Article](http://zetcode.com/lang/rubytutorial/arrays/)
 
 [gets-and-chomp]: http://andreacfm.com/ruby/2011/06/11/learning-ruby-gets-and-chomp.html
